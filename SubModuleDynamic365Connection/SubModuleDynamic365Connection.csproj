@@ -6,9 +6,11 @@
 
   <ItemGroup>
     <PackageReference Include="log4net" Version="2.0.13" />
+    <PackageReference Include="Microsoft.Azure.WebJobs" Version="3.0.30" />
     <PackageReference Include="Microsoft.CrmSdk.CoreAssemblies" Version="9.0.2.42" />
     <PackageReference Include="Microsoft.CrmSdk.XrmTooling.CoreAssembly" Version="9.1.0.92" />
     <PackageReference Include="Microsoft.IdentityModel.Logging" Version="6.14.1" />
+    <PackageReference Include="MongoDB.Driver" Version="2.13.2" />
   </ItemGroup>
 
 </Project>
